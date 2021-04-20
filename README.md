@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @Byte-Player. Author name: Weijian Zeng
+- 👋  Hi, I’m @Machine-Trainer. Author name: Weijian Zeng
 - 👀 I’m interested in Computer Vision and C++ programmming
 - 🏫 I’m currently taking course in Rensselaer Polytechnic Institute and collaborating with my classmates on Project "RPI-Your-Own-Adventure" and "Operating System Project"
 - 💞️ I have registered for Github for two years, but I actually know how to use it to collborate recently

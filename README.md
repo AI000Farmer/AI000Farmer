@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @Machine-Trainer. Author name: Weijian Zeng
 - 👀 I’m interested in Computer Vision and C++ programmming
-- 🏫 I have graduated from Rensselaer Polytechnic Institute and collaborating with my classmates on Project "RPI-Your-Own-Adventure" and "Operating System Project"
+- 🏫 I have graduated from Rensselaer Polytechnic Institute.
 - 🏫 I'm currently taking courses related to Web Development courses at Rice University.
 - 💞️ I have registered for Github for two years, but I actually know how to use it to collborate recently
 - 🤖 More projects might be uploaded in the future.I'm currently working on Contrastive Learning Research with Professor Lirong Xia's group in RPI, which collaborate with IBM.
